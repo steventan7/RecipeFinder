@@ -1,0 +1,22 @@
+ul {
+  list-style-type: none;
+}
+
+.weekdays {
+  margin: 0;
+  padding: 12px 0;
+  background-image: linear-gradient(120deg, rgb(72, 48, 77) 0%, #a6c1ee 100%);
+
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(50, 41, 47);
+}
+
+table {
+  border-collapse: collapse;
+}
+
+#col {
+  height: 500px;
+  background: rgb(205, 215, 214);
+}
